@@ -24,7 +24,7 @@
     "@codemirror/state": "^0.19.6",
     "@codemirror/view": "^0.19.27",
     "@tippyjs/react": "^4.2.6",
-    "@uiw/react-codemirror": "^4.3.3",
+    "@uiw/react-codemirror": "^4.19.14",
     "buffer": "^6.0.3",
     "classnames": "^2.3.1",
     "clean-css": "^5.2.4",
